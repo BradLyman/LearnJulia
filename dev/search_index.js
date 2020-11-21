@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = LearnJulia","category":"page"},{"location":"#LearnJulia","page":"Home","title":"LearnJulia","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"some content","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [LearnJulia]","category":"page"},{"location":"#LearnJulia.helloworld-Tuple{}","page":"Home","title":"LearnJulia.helloworld","text":"helloworld()\n\nA dreadfully important function which does a thing.\n\n\n\n\n\n","category":"method"}]
+}
