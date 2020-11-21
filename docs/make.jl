@@ -18,4 +18,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/BradLyman/LearnJulia.jl",
+    devbranch="main"
 )
