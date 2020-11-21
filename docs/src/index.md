@@ -4,6 +4,8 @@ CurrentModule = LearnJulia
 
 # LearnJulia
 
+some content
+
 ```@index
 ```
 
