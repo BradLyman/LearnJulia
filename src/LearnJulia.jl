@@ -1,5 +1,9 @@
 module LearnJulia
 
+include("ExampleSubmodule.jl")
+using .ExampleSubmodule
+export anexamplefunction
+
 """
   helloworld()
 

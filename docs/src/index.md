@@ -4,11 +4,12 @@ CurrentModule = LearnJulia
 
 # LearnJulia
 
-some content
-
 ```@index
 ```
 
+```@contents
+```
+
 ```@autodocs
-Modules = [LearnJulia]
+Modules = [LearnJulia, LearnJulia.ExampleSubmodule]
 ```
