@@ -1,6 +1,8 @@
 module LearnJulia
 
+include("PersonalAssets.jl")
 include("ExampleSubmodule.jl")
+
 using .ExampleSubmodule
 export anexamplefunction
 

@@ -13,7 +13,8 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
-        "Modules: How To" => "modules.md"
+        "Modules" => "modules.md",
+        "Abstract Types" => "abstract_types.md"
     ],
 )
 
